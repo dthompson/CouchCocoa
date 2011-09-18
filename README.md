@@ -88,7 +88,7 @@ Copyright 2011, Couchbase, Inc.
 
 
 [1]: http://couchdb.apache.org/
-[2]: https://github.com/schwa/trundle
+[2]: https://github.com/TouchCode/trundle
 [3]: https://groups.google.com/group/mobile-couchbase
 [4]: http://www.couchbase.com/downloads/couchbase-single-server/community
 [5]: https://github.com/couchbaselabs/CouchCocoa/issues
